@@ -1,0 +1,26 @@
+{
+  "name": "gitbook-plugin-anchor-translit",
+  "version": "0.0.1",
+  "description": "Auto translit #anchor for headings",
+  "main": "index.js",
+  "engines": {
+    "gitbook": ">=3.x.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JustPilz/gitbook-plugin-anchor-translit.git"
+  },
+  "engines": {
+    "gitbook": ">=3.0.0"
+  },
+  "dependencies": {
+    "translit": "^0.0.1",
+    "github-slugid": "^1.0.1"
+  },
+  "author": "JustPilz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JustPilz/gitbook-plugin-anchor-translit/issues"
+  },
+  "homepage": "https://github.com/JustPilz/gitbook-plugin-anchor-translit#readme"
+}
