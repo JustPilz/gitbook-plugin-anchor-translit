@@ -1,6 +1,6 @@
 {
   "name": "gitbook-plugin-anchor-translit",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Auto translit #anchor for headings",
   "main": "index.js",
   "engines": {
